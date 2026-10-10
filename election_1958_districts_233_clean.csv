@@ -1,0 +1,234 @@
+district_id,district_name,prov_name
+SEOUL58-01,종로구 갑,서울특별시
+SEOUL58-02,종로구 을,서울특별시
+SEOUL58-03,중구 갑,서울특별시
+SEOUL58-04,중구 을,서울특별시
+SEOUL58-05,동대문구 갑,서울특별시
+SEOUL58-06,동대문구 을,서울특별시
+SEOUL58-08,성동구 을,서울특별시
+SEOUL58-07,성동구 갑,서울특별시
+SEOUL58-09,성북구,서울특별시
+SEOUL58-10,서대문구 갑,서울특별시
+SEOUL58-11,서대문구 을,서울특별시
+SEOUL58-12,마포구,서울특별시
+SEOUL58-13,용산구 갑,서울특별시
+SEOUL58-14,용산구 을,서울특별시
+SEOUL58-16,영등포구 을,서울특별시
+SEOUL58-15,영등포구 갑,서울특별시
+BUSAN58-01,중구,부산시
+BUSAN58-03,서구 을,부산시
+BUSAN58-02,서구 갑,부산시
+BUSAN58-06,동구 갑,부산시
+BUSAN58-07,동구 을,부산시
+BUSAN58-04,영도구 갑,부산시
+BUSAN58-05,영도구 을,부산시
+BUSAN58-08,부산진구 갑,부산시
+BUSAN58-09,부산진구 을,부산시
+BUSAN58-10,동래구,부산시
+GYEONGGI58-01,인천시 갑,경기도
+GYEONGGI58-02,인천시 을,경기도
+GYEONGGI58-03,인천시 병,경기도
+GYEONGGI58-04,수원시,경기도
+GYEONGGI58-09,광주군,경기도
+GYEONGGI58-05,양주군 갑,경기도
+GYEONGGI58-17,시흥군,경기도
+GYEONGGI58-18,부천군,경기도
+GYEONGGI58-06,양주군 을,경기도
+GYEONGGI58-07,여주군,경기도
+GYEONGGI58-08,평택군,경기도
+GYEONGGI58-20,화성군 을,경기도
+GYEONGGI58-19,화성군 갑,경기도
+GYEONGGI58-16,파주군,경기도
+GYEONGGI58-24,고양군,경기도
+GYEONGGI58-23,연천군,경기도
+GYEONGGI58-21,포천군,경기도
+GYEONGGI58-22,가평군,경기도
+GYEONGGI58-11,양평군,경기도
+GYEONGGI58-12,이천군,경기도
+GYEONGGI58-13,용인군,경기도
+GYEONGGI58-10,안성군,경기도
+GYEONGGI58-14,김포군,경기도
+GYEONGGI58-15,강화군,경기도
+GYEONGGI58-25,옹진군,경기도
+GANGWON58-01,춘천시,강원도
+GANGWON58-03,원주시,강원도
+GANGWON58-05,강릉시,강원도
+GANGWON58-18,양양군,강원도
+GANGWON58-02,춘성군,강원도
+GANGWON58-08,홍천군,강원도
+GANGWON58-09,횡성군,강원도
+GANGWON58-04,원성군,강원도
+GANGWON58-10,영월군,강원도
+GANGWON58-11,평창군,강원도
+GANGWON58-12,정선군,강원도
+GANGWON58-13,철원군,강원도
+GANGWON58-14,화천군,강원도
+GANGWON58-15,양구군,강원도
+GANGWON58-16,인제군,강원도
+GANGWON58-17,고성군,강원도
+GANGWON58-07,명주군 을,강원도
+GANGWON58-06,명주군 갑,강원도
+GANGWON58-19,삼척군 갑,강원도
+GANGWON58-20,삼척군 을,강원도
+CHUNGBUK58-01,청주시,충청북도
+CHUNGBUK58-04,충주시,충청북도
+CHUNGBUK58-02,청원군 갑,충청북도
+CHUNGBUK58-03,청원군 을,충청북도
+CHUNGBUK58-08,보은군,충청북도
+CHUNGBUK58-09,옥천군,충청북도
+CHUNGBUK58-10,영동군,충청북도
+CHUNGBUK58-11,진천군,충청북도
+CHUNGBUK58-12,괴산군,충청북도
+CHUNGBUK58-13,음성군,충청북도
+CHUNGBUK58-05,중원군,충청북도
+CHUNGBUK58-06,제천군,충청북도
+CHUNGBUK58-07,단양군,충청북도
+CHUNGNAM58-01,대전시 갑,충청남도
+CHUNGNAM58-02,대전시 을,충청남도
+CHUNGNAM58-21,천안군,충청남도
+CHUNGNAM58-22,금산군,충청남도
+CHUNGNAM58-03,대덕군,충청남도
+CHUNGNAM58-04,연기군,충청남도
+CHUNGNAM58-05,공주군 갑,충청남도
+CHUNGNAM58-06,공주군 을,충청남도
+CHUNGNAM58-07,논산군 갑,충청남도
+CHUNGNAM58-08,논산군 을,충청남도
+CHUNGNAM58-09,부여군 갑,충청남도
+CHUNGNAM58-10,부여군 을,충청남도
+CHUNGNAM58-11,서천군,충청남도
+CHUNGNAM58-12,보령군,충청남도
+CHUNGNAM58-13,청양군,충청남도
+CHUNGNAM58-14,홍성군,충청남도
+CHUNGNAM58-15,예산군,충청남도
+CHUNGNAM58-16,서산군 갑,충청남도
+CHUNGNAM58-17,서산군 을,충청남도
+CHUNGNAM58-18,당진군 갑,충청남도
+CHUNGNAM58-19,당진군 을,충청남도
+CHUNGNAM58-20,아산군,충청남도
+JEONBUK58-02,전주시 을,전라북도
+JEONBUK58-01,전주시 갑,전라북도
+JEONBUK58-03,군산시,전라북도
+JEONBUK58-04,이리시,전라북도
+JEONBUK58-05,완주군 갑,전라북도
+JEONBUK58-06,완주군 을,전라북도
+JEONBUK58-07,진안군,전라북도
+JEONBUK58-08,무주군,전라북도
+JEONBUK58-09,장수군,전라북도
+JEONBUK58-10,임실군,전라북도
+JEONBUK58-11,남원군 갑,전라북도
+JEONBUK58-12,남원군 을,전라북도
+JEONBUK58-13,순창군,전라북도
+JEONBUK58-14,정읍군 갑,전라북도
+JEONBUK58-15,정읍군 을,전라북도
+JEONBUK58-16,고창군 갑,전라북도
+JEONBUK58-17,고창군 을,전라북도
+JEONBUK58-18,부안군,전라북도
+JEONBUK58-19,김제군 갑,전라북도
+JEONBUK58-20,김제군 을,전라북도
+JEONBUK58-21,옥구군 갑,전라북도
+JEONBUK58-22,옥구군 을,전라북도
+JEONBUK58-23,익산군 갑,전라북도
+JEONBUK58-24,익산군 을,전라북도
+JEONNAM58-01,광주시 갑,전라남도
+JEONNAM58-02,광주시 을,전라남도
+JEONNAM58-03,광주시 병,전라남도
+JEONNAM58-04,목포시,전라남도
+JEONNAM58-05,여수시,전라남도
+JEONNAM58-06,순천시,전라남도
+JEONNAM58-07,광산군 갑,전라남도
+JEONNAM58-08,광산군 을,전라남도
+JEONNAM58-09,담양군,전라남도
+JEONNAM58-10,곡성군,전라남도
+JEONNAM58-11,구례군,전라남도
+JEONNAM58-12,광양군,전라남도
+JEONNAM58-13,여천군,전라남도
+JEONNAM58-14,승주군,전라남도
+JEONNAM58-16,고흥군 을,전라남도
+JEONNAM58-15,고흥군 갑,전라남도
+JEONNAM58-17,보성군,전라남도
+JEONNAM58-18,화순군,전라남도
+JEONNAM58-19,장흥군,전라남도
+JEONNAM58-20,강진군,전라남도
+JEONNAM58-21,해남군 갑,전라남도
+JEONNAM58-22,해남군 을,전라남도
+JEONNAM58-23,영암군,전라남도
+JEONNAM58-24,무안군 갑,전라남도
+JEONNAM58-25,무안군 을,전라남도
+JEONNAM58-28,나주군 을,전라남도
+JEONNAM58-27,나주군 갑,전라남도
+JEONNAM58-29,함평군,전라남도
+JEONNAM58-30,영광군,전라남도
+JEONNAM58-31,장성군,전라남도
+JEONNAM58-32,완도군,전라남도
+JEONNAM58-33,진도군,전라남도
+JEONNAM58-26,무안군 병,전라남도
+GYEONGBUK58-01,대구시 중구,경상북도
+GYEONGBUK58-02,대구시 동구,경상북도
+GYEONGBUK58-04,대구시 서구,경상북도
+GYEONGBUK58-03,대구시 남구,경상북도
+GYEONGBUK58-05,대구시 북구,경상북도
+GYEONGBUK58-06,포항시,경상북도
+GYEONGBUK58-08,경주시,경상북도
+GYEONGBUK58-07,김천시,경상북도
+GYEONGBUK58-13,안동시,경상북도
+GYEONGBUK58-09,달성군,경상북도
+GYEONGBUK58-10,군위군,경상북도
+GYEONGBUK58-11,의성군 갑,경상북도
+GYEONGBUK58-12,의성군 을,경상북도
+GYEONGBUK58-14,안동군 갑,경상북도
+GYEONGBUK58-15,안동군 을,경상북도
+GYEONGBUK58-16,청송군,경상북도
+GYEONGBUK58-17,영양군,경상북도
+GYEONGBUK58-18,영덕군,경상북도
+GYEONGBUK58-20,영일군 을,경상북도
+GYEONGBUK58-19,영일군 갑,경상북도
+GYEONGBUK58-21,월성군 갑,경상북도
+GYEONGBUK58-22,월성군 을,경상북도
+GYEONGBUK58-23,영천군 갑,경상북도
+GYEONGBUK58-24,영천군 을,경상북도
+GYEONGBUK58-25,경산군,경상북도
+GYEONGBUK58-26,청도군,경상북도
+GYEONGBUK58-27,고령군,경상북도
+GYEONGBUK58-28,성주군,경상북도
+GYEONGBUK58-29,칠곡군,경상북도
+GYEONGBUK58-30,금릉군,경상북도
+GYEONGBUK58-31,선산군,경상북도
+GYEONGBUK58-32,상주군 갑,경상북도
+GYEONGBUK58-33,상주군 을,경상북도
+GYEONGBUK58-34,문경군,경상북도
+GYEONGBUK58-35,예천군,경상북도
+GYEONGBUK58-36,영주군,경상북도
+GYEONGBUK58-37,봉화군,경상북도
+GYEONGBUK58-38,울릉군,경상북도
+GYEONGNAM58-01,마산시,경상남도
+GYEONGNAM58-02,진주시,경상남도
+GYEONGNAM58-03,충무시,경상남도
+GYEONGNAM58-04,진해시,경상남도
+GYEONGNAM58-05,삼천포시,경상남도
+GYEONGNAM58-14,울산군 을,경상남도
+GYEONGNAM58-06,진양군,경상남도
+GYEONGNAM58-07,의령군,경상남도
+GYEONGNAM58-08,함안군,경상남도
+GYEONGNAM58-09,창녕군,경상남도
+GYEONGNAM58-10,밀양군 갑,경상남도
+GYEONGNAM58-11,밀양군 을,경상남도
+GYEONGNAM58-12,양산군,경상남도
+GYEONGNAM58-13,울산군 갑,경상남도
+GYEONGNAM58-16,김해군 갑,경상남도
+GYEONGNAM58-17,김해군 을,경상남도
+GYEONGNAM58-19,창원군 을,경상남도
+GYEONGNAM58-18,창원군 갑,경상남도
+GYEONGNAM58-20,통영군,경상남도
+GYEONGNAM58-21,거제군,경상남도
+GYEONGNAM58-22,고성군,경상남도
+GYEONGNAM58-23,사천군,경상남도
+GYEONGNAM58-24,남해군,경상남도
+GYEONGNAM58-25,하동군,경상남도
+GYEONGNAM58-26,산청군,경상남도
+GYEONGNAM58-27,함양군,경상남도
+GYEONGNAM58-28,거창군,경상남도
+GYEONGNAM58-30,합천군 을,경상남도
+GYEONGNAM58-29,합천군 갑,경상남도
+JEJU58-01,제주시,제주도
+JEJU58-02,북제주군,제주도
+JEJU58-03,남제주군,제주도
